@@ -1,4 +1,4 @@
-package src.src;
+package Algorithm;
 
 public class MergeSort
 {

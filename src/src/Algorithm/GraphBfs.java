@@ -1,4 +1,4 @@
-package src.src;
+package Algorithm;
 
 import java.util.LinkedList;
 import java.util.Map;
